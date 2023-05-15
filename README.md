@@ -4,6 +4,8 @@
 
 Whiskas nos ha contratado para implementar una App que, cada vez que hacemos clic en el botón, nos trae de The Cat Api una nueva imagen de un gato. Debemos establecer la imagen en el contenedor adecuado, y además, la anchura y altura de la misma.
 
+Web de la [API](https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t)
+
 ## Preguntas previas
 
 1. ¿Porque podemos ver un texto 'un gato' al cargar la app por primera vez?
