@@ -28,3 +28,7 @@ Si tras completar toda la evaluación te queda tiempo, implementa esta funcional
 
 1. Crea un [selector](https://www.w3schools.com/tags/tag_select.asp) para escoger entre perros y gatos.
 2. La [API](https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=8FfZAkNzs) debe recuperar un perro o un gato, en función del animal escogido.
+
+La siguiente demo es una idea/mezcla aproximada de lo que se quiere, puedes implementar tu propia versión:
+
+[Demo](https://4geeks-omiras.github.io/the-cat-api-dog/)
